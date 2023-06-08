@@ -53,6 +53,9 @@ sidebar:
         - item: Eating Chocolate
           link:
 
+        - item: Photography
+          link: https://www.instagram.com/joseerodrigues/
+
 career-profile:
     title: About Me
     summary: Solutions Architect,Tech Lead,Team Leader,Senior Java Engineer with over 17 years experience delivering hight quality software solutions.
@@ -86,6 +89,11 @@ experiences:
 
             Helping the team (10-12 members) realize its full potencial while having a clear vision of the road ahead and how to best travel it.
             Carefully choosing the best IT approach to better serve the Business needs for a Global Financial Institution who is also a major player in the Securities Market.
+
+       - role: To be continued
+         time: TBD
+         company: TBD
+         details: TBD
 #projects:
 #     title: Projects
 #     intro: >
