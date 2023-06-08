@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: joseerodrigues@gmail.com
+    email:
     phone:
     timezone: London/Portugal Timezone
     citizenship:
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -50,18 +50,14 @@ sidebar:
         - item: Running
           link:
 
-        - item: Eating
+        - item: Eating Chocolate
           link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    title: About Me
+    summary: Solutions Architect,Tech Lead,Team Leader,Senior Java Engineer with over 17 years experience delivering hight quality software solutions.
+            Feel free to contact me on linkedIn
+      
 #education:
 #    title: Education
 #    info:
@@ -77,45 +73,19 @@ career-profile:
       #      - Bullet point
       #      - Bullet point
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+     title: Career
+     info:
+       - role: Team Leader, Tech Lead, Solutions Architect
+         time: Jan 2022 - Present
+         company: HN Services for BNP Paribas
+         details: |
+           Wearing multiple hats:
+            - Team Leader
+            - Tech Lead 
+            - Solutions Architect
+
+            Helping the team (10-12 members) realize its full potencial while having a clear vision of the road ahead and how to best travel it.
+            Carefully choosing the best IT approach to better serve the Business needs for a Global Financial Institution who is also a major player in the Securities Market.
 #projects:
 #     title: Projects
 #     intro: >
@@ -184,27 +154,27 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#skills:
+#     title: Skills &amp; Proficiency
+# 
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
+# 
+#       - name: Javascript & jQuery
+#         level: 98%
+# 
+#       - name: Angular
+#         level: 98%
+# 
+#       - name: HTML5 & CSS
+#         level: 95%
+# 
+#       - name: Ruby on Rails
+#         level: 85%
+# 
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
