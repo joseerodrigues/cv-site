@@ -8,12 +8,3 @@
 {% if site.analytics %}
   {% include analytics.html %}
 {% endif %}
-
-<script>
-  var enc = "am9zZWVyb2RyaWd1ZXNAZ21haWwuY29t";
-  var dec = atob(enc);
-
-  const form = document.getElementById("contact");  
-  form.setAttribute("href", "mailto:".concat(dec));
-  form.innerHTML += " at " + dec;
-</script>
