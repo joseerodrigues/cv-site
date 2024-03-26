@@ -257,6 +257,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-unknown
   x86_64-linux
 
 DEPENDENCIES
