@@ -58,7 +58,7 @@ sidebar:
 
 career-profile:
     title: About Me
-    summary: Solutions Architect,Tech Lead,Team Leader,Senior Java Engineer with over 16 years experience delivering hight quality software solutions.
+    summary: Solutions Architect,Tech Lead,Team Leader,Senior Java Engineer with over 17 years experience delivering hight quality software solutions.
             Feel free to contact me on linkedIn
       
 #education:
@@ -87,7 +87,7 @@ experiences:
             - Tech Lead 
             - Solutions Architect
 
-            Helping the team (10-12 members) realize its full potencial while having a clear vision of the road ahead and how to best travel it.
+            Helping the team (12-18 members) realize its full potencial while having a clear vision of the road ahead and how to best travel it.
             Carefully choosing the best IT approach to better serve the Business needs for a Global Financial Institution who is also a major player in the Securities Market.
 
        - role: Architect, Tech Lead
@@ -110,6 +110,7 @@ experiences:
            Software Architect for the Java platform
 
            - @Caixa Económica Montepio Geral: SGD,Portal de Processos (ECM and BPM applications and services)
+           - @Jose de Mello Saude: EAI Team, Reverse Engineer Oracle Transaction Logs, Rest API/Swagger/GCP 
            - @NOVO BANCO/DSI: geDOC, Elastic Search
            - @NOVO BANCO/DSI: geDocFed – custom ECM Federation solution
            - @STEP: SABE –SaaS ECM/BPM platform
