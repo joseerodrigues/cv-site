@@ -89,6 +89,8 @@ experiences:
 
             Helping the team (12-18 members) realize its full potencial while having a clear vision of the road ahead and how to best travel it.
             Carefully choosing the best IT approach to better serve the Business needs for a Global Financial Institution who is also a major player in the Securities Market.
+            
+            Team started with 12 members, then we got 6 more for a dedicated refactoring project, where the goal is to split a big monolith into a more modular architecture.
 
        - role: Architect, Tech Lead
          time: Feb 2021 - Dec 2021
