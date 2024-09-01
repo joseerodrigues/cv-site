@@ -144,32 +144,28 @@ experiences:
            - Development of new apps for on the field consultation input gathering and analysis.
            - Development of integrations with previous developed apps. 
            - Code Reviews and Refactoring.
-#projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-# 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-# 
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-# 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-# 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+projects:
+     title: Projects
+     intro: >
+       Toy Projects or Small Utilities available on my github profile
+     assignments:
+       - title: EasyJNDI
+         link: "https://github.com/joseerodrigues/easyjndi"
+         tagline: "Easily bind Objects of any type via JNDI in a standalone java app. <br/>
+         Example: Get a DataSource from JNDI"
+
+       - title: Thread Utils
+         link: "https://github.com/joseerodrigues/thread_utils"
+         tagline: "Java Library with helpers for multi-threaded development.<br/> 
+         Implements the Producer/Consumer pattern and ForkJoin before Java 8"
+
+       - title: DB Utils
+         link: "https://github.com/joseerodrigues/db_utils"
+         tagline: "Really simple helper for JDBC."
+
+       - title: BMP Steg
+         link: "https://github.com/joseerodrigues/bmp-steg"
+         tagline: "Playing with the concept of Steganography, small C encoder/decoder program to hide/show secret data in images"
 
 # oss:
 #     title: OSS Contributions
