@@ -78,8 +78,15 @@ career-profile:
 experiences:
      title: Career
      info:
+       - role: Senior Software Engineer
+         time: Sep 2024 - Present
+         company: Revolut
+         details: |
+           - Senior Software Engineer (Backend Java)
+           - Tech Lead      
+
        - role: Team Leader, Tech Lead, Solutions Architect
-         time: Jan 2022 - Present
+         time: Jan 2022 - Sep 2024
          company: HN Services for BNP Paribas
          details: |
            Wearing multiple hats:
