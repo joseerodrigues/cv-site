@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: José Rodrigues
-    tagline: Solutions Architect<br/>Tech Lead<br/>Team Leader<br/>Senior Java Engineer
+    tagline: Java Tech Lead<br/>Team Leader<br/>Senior Java Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -58,7 +58,7 @@ sidebar:
 
 career-profile:
     title: About Me
-    summary: Solutions Architect,Tech Lead,Team Leader,Senior Java Engineer with over 17 years experience delivering high quality software solutions.
+    summary: Java Tech Lead,Team Leader,Senior Java Engineer with over 17 years experience delivering high quality software solutions.
             Feel free to contact me on linkedIn
       
 #education:
