@@ -1,0 +1,32 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+
+\begin{document}
+
+    \begin{center}
+    {\LARGE {{ name }}}\\[4pt]
+    {{ title }}\\
+    {{ contact.email }} | {{ contact.phone }} | {{ contact.location }}
+    \end{center}
+
+    \vspace{1em}
+
+    \section*{Skills}
+    \begin{itemize}[noitemsep]
+    {% for skill in skills %}
+        \item {{ skill }}
+        {% endfor %}
+    \end{itemize}
+
+    \section*{Experience}
+    {% for job in experience %}
+    \textbf{{ job.position }} at {{ job.company }} ({{ job.start }}–{{ job.end }})\\
+    \begin{itemize}[noitemsep]
+    {% for detail in job.details %}
+        \item {{ detail }}
+        {% endfor %}
+    \end{itemize}
+        {% endfor %}
+
+        \end{document}
