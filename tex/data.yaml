@@ -1,8 +1,10 @@
 name: José Rodrigues
 title: Java Tech Lead | Team Leader | Senior Java Engineer
-summary: Java Tech Lead,Team Leader,Senior Java Engineer with over 17 years experience delivering high quality software solutions.
-  Feel free to contact me on linkedIn
+summary: Java Tech Lead, Team Leader, Senior Java Engineer with over 17 years experience delivering high quality software solutions.
 contact:
+  website:
+      url: https://www.jose-rodrigues.com/
+      title: www.jose-rodrigues.com
   linkedin:
     url: https://www.linkedin.com/in/josé-rodrigues-itworld/
     title: linkedin.com/in/josé-rodrigues-itworld
@@ -16,6 +18,8 @@ skills:
   - PostgreSQL
   - Docker
   - Gradle
+
+specific_training:
 
 experience:
   - company: TechCorp
